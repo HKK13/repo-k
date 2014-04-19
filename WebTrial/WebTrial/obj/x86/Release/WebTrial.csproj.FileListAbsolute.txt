@@ -1,0 +1,9 @@
+\\DESKTOPKAAN\Users\Kaan\Documents\Visual Studio 2010\Projects\WebTrial\WebTrial\bin\Release\WebTrial.exe
+\\DESKTOPKAAN\Users\Kaan\Documents\Visual Studio 2010\Projects\WebTrial\WebTrial\bin\Release\WebTrial.pdb
+\\DESKTOPKAAN\Users\Kaan\Documents\Visual Studio 2010\Projects\WebTrial\WebTrial\obj\x86\Release\WebTrial.Form1.resources
+\\DESKTOPKAAN\Users\Kaan\Documents\Visual Studio 2010\Projects\WebTrial\WebTrial\obj\x86\Release\WebTrial.Properties.Resources.resources
+\\DESKTOPKAAN\Users\Kaan\Documents\Visual Studio 2010\Projects\WebTrial\WebTrial\obj\x86\Release\WebTrial.csproj.GenerateResource.Cache
+\\DESKTOPKAAN\Users\Kaan\Documents\Visual Studio 2010\Projects\WebTrial\WebTrial\obj\x86\Release\WebTrial.exe
+\\DESKTOPKAAN\Users\Kaan\Documents\Visual Studio 2010\Projects\WebTrial\WebTrial\obj\x86\Release\WebTrial.pdb
+C:\Users\LIVE\Desktop\WebTrial\WebTrial\obj\x86\Release\WebTrial.exe
+C:\Users\LIVE\Desktop\WebTrial\WebTrial\obj\x86\Release\WebTrial.pdb

@@ -1,0 +1,7 @@
+C:\Users\LIVE\Desktop\WebTrial\WebTrial\obj\x86\Release\WebTrial.exe
+C:\Users\LIVE\Desktop\WebTrial\WebTrial\obj\x86\Release\WebTrial.pdb
+C:\Users\LIVE\Desktop\WebTrial\WebTrial\bin\Release\WebTrial.exe
+C:\Users\LIVE\Desktop\WebTrial\WebTrial\bin\Release\WebTrial.pdb
+C:\Users\LIVE\Desktop\WebTrial\WebTrial\obj\x86\Release\WebTrial.Form1.resources
+C:\Users\LIVE\Desktop\WebTrial\WebTrial\obj\x86\Release\WebTrial.Properties.Resources.resources
+C:\Users\LIVE\Desktop\WebTrial\WebTrial\obj\x86\Release\BannerRunner.csproj.GenerateResource.Cache
